@@ -1,0 +1,11 @@
+const text = "Susi is back from codingschool";
+const a = text.substring(0, 4);
+const b = text.substring(5, 7);
+const c = text.substring(8, 12);
+const d = text.substring(13, 17);
+const e = text.substring(18, 30);
+document.write(a + "<br>");
+document.write(b + "<br>");
+document.write(c + "<br>");
+document.write(d + "<br>");
+document.write(e + "<br>");
